@@ -45,9 +45,9 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
 * پیش پردازش متن (Preprocessing Text)
   - نرمالسازی، توکنایز، حذف کلمات اضافه
   - آمارگیری بعد از پیش پردازش
+  - رفع مشکل NaN
 * نمایش متن (Text Embedding)
   - از روش های کلاسیک (TF-IDF)
-    * رفع مشکل NaN
     * انتخاب بهترین مقدار برای max_features
   - از روش های شبکه های عصبی (Fast Text)
   - از روش های زبانی زمینه ای (ParsBERT)
