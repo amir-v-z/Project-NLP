@@ -39,6 +39,7 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
 ## کار هایی که روی دیتاست انجام دادم
 
 * بررسی های اولیه دیتاست (Initial Dataset Reviews)
+  - بارگزاری دیتاست (آموزشی)
   - بررسی تعداد ستون ها
   - توزیع کلاس های ستون ها
   - آمارگیری اولیه قبل پیش پردازش
@@ -52,3 +53,5 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
   - از روش های شبکه های عصبی (FastText, Word2Vec)
   - از روش های زبانی زمینه ای (ParsBERT)
   - مقایسه روش ها
+* طراحی و پیاده سازی مدل کاربردی
+  - بارگزاری دیتاست (تستی)
