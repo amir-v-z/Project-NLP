@@ -63,3 +63,4 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
   - ParsBERT + KMeans Clustering + LR
   - TF-IDF + RF + GridSearchCV
   - مقایسه نهایی مدل های طبقه بندی شده روی داده های تست
+  - Fine-tuning
