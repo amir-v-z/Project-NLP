@@ -58,3 +58,8 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
   - بارگزاری دیتاست (تستی)
   - انجام مراحل پیش پردازش و نمایش متن روی داده های تست
   - مقایسه عملکرد روی داده تست
+  - TF-IDF + RF
+  - ParsBERT + LR
+  - ParsBERT + KMeans Clustering + LR
+  - TF-IDF + RF + GridSearchCV
+  - مقایسه نهایی مدل های طبقه بندی شده روی داده های تست
