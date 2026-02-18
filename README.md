@@ -64,3 +64,7 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
   - TF-IDF + RF + GridSearchCV
   - مقایسه نهایی مدل های طبقه بندی شده روی داده های تست
   - Fine-tuning
+  - ارزیابی مدل
+    * پیاده سازی Baseline: TF-IDF + Naive Bayes
+    * مقایسه مدل ها با Baseline
+    * نمودار های مقایسه ای (Confusion Matrix, Bar Chart)
