@@ -50,21 +50,23 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
 * نمایش متن (Text Embedding)
   - از روش های کلاسیک (TF-IDF)
     * انتخاب بهترین مقدار برای max_features
-    * ذخیره Vectorizer
   - از روش های شبکه های عصبی (FastText, Word2Vec)
   - از روش های زبانی زمینه ای (ParsBERT)
   - مقایسه روش ها
 * طراحی و پیاده سازی مدل کاربردی
   - بارگزاری دیتاست (تستی)
-  - انجام مراحل پیش پردازش و نمایش متن روی داده های تست
+  - انجام مراحل پیش پردازش روی داده های تست
+  - نمایش متن روی داده های تست
   - مقایسه عملکرد روی داده تست
   - TF-IDF + RF
   - ParsBERT + LR
   - ParsBERT + KMeans Clustering + LR
   - TF-IDF + RF + GridSearchCV
   - مقایسه نهایی مدل های طبقه بندی شده روی داده های تست
-  - Fine-tuning
-  - ارزیابی مدل
-    * پیاده سازی Baseline: TF-IDF + Naive Bayes
-    * مقایسه مدل ها با Baseline
-    * نمودار های مقایسه ای (Confusion Matrix, Bar Chart)
+* Fine tuning
+* ارزیابی مدل
+  - پیاده سازی Baseline: TF-IDF + Naive Bayes
+  - مقایسه مدل ها با Baseline
+  - نمودار های مقایسه ای
+    * Confusion Matrix
+    * Bar Chart
