@@ -10,8 +10,8 @@
 ## درباره دیتاست
 - **زبان :** فارسی
 - **تعداد نمونه‌ها :**
-  - Train: 28,602 نمونه
-  - Test: 2,315 نمونه
+  * داده های آموزشی: 28,602 نمونه
+  * داده های تستی: 2,315 نمونه
 - **لیبل کلاس ها :**
   - 0 → negative (منفی)
   - 1 → positive (مثبت)
@@ -67,6 +67,4 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
 * ارزیابی مدل
   - پیاده سازی Baseline: TF-IDF + Naive Bayes
   - مقایسه مدل ها با Baseline
-  - نمودار های مقایسه ای
-    * Confusion Matrix
-    * Bar Chart
+  - نمودار های مقایسه ای (Confusion Matrix, Bar Chart)
