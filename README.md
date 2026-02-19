@@ -13,9 +13,9 @@
   * داده های آموزشی: 28,602 نمونه
   * داده های تستی: 2,315 نمونه
 - **لیبل کلاس ها :**
-  - 0 → negative (منفی)
-  - 1 → positive (مثبت)
-  - 2 → neutral (خنثی)
+  * منفی ⬅ 0
+  * مثبت ⬅ 1
+  * خنثی ⬅ 2
 
 ## ساختار دیتاست
 هر نمونه شامل دو ستون است :
@@ -60,7 +60,7 @@ https://huggingface.co/datasets/hezarai/sentiment-dksf
   - مقایسه عملکرد روی داده تست
   - TF-IDF + RF
   - ParsBERT + LR
-  - ParsBERT + KMeans Clustering + LR
+  - ParsBERT + KMeans + LR
   - TF-IDF + RF + GridSearchCV
   - مقایسه نهایی مدل های طبقه بندی شده روی داده های تست
 * Fine tuning
